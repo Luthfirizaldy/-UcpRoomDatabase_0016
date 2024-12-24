@@ -42,7 +42,7 @@ fun DetailBarangView(
     Scaffold(
         topBar = {
             TopAppBar(
-                judul = "Detail Matakuliah",
+                judul = "Detail Barang",
                 showBackButton = true,
                 onBack = onBack,
                 modifier = modifier
